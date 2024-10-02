@@ -3,4 +3,4 @@ langchain
 openai
 langchain_community
 wikipedia-api
-python-dotenv  # Optional for environment variables
+pydantic
