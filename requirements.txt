@@ -1,6 +1,2 @@
 streamlit
 langchain
-openai
-langchain_community
-wikipedia-api
-pydantic
