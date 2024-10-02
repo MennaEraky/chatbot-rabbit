@@ -1,6 +1,7 @@
 streamlit
 langchain
 openai
-huggingface_hub
-python-dotenv
+langchain_community
 wikipedia-api
+pydantic
+requests
