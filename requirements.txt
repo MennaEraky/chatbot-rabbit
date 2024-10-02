@@ -2,4 +2,5 @@ streamlit
 langchain
 openai
 langchain_community
-python-dotenv  # Optional, if you plan to manage environment variables
+wikipedia-api
+python-dotenv  # Optional for environment variables
