@@ -1,5 +1,5 @@
 import os
-os.environ['OPENAI_API_KEY'] = "Enter the api key"
+os.environ['OPENAI_API_KEY'] = "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"
 
 import streamlit as st
 # Set the title using StreamLit
