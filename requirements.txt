@@ -1,5 +1,5 @@
+streamlit
 langchain
-openai==0.28.1
+openai
 huggingface_hub
 python-dotenv
-streamlit
